@@ -1,0 +1,1 @@
+export const SWITCH_SUBMIT_LOADING = "login_switchSubmitLoading";

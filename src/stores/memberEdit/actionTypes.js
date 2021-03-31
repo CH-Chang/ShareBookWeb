@@ -1,0 +1,6 @@
+export const GET_EDIT_INFORMATION_FORM_DATA = "memberEdit_getEditInformationFormData";
+export const GET_EDIT_SCHOOL_FORM_DATA = "memberEdit_getEditSchoolFormData";
+export const SWITCH_EDIT_INFORMATION_SUBMIT_LOADING = "memberEdit_editInformationSubmitLoading";
+export const SWITCH_EDIT_INFORMATION_VALIDATE_LOADING = "memberEdit_editInformationValidateLoading";
+export const SWITCH_EDIT_SCHOOL_SUBMIT_LOADING = "memberEdit_editSchoolSubmitLoading";
+export const SWITCH_EDIT_SCHOOL_VALIDATE_LOADING = "memberEdit_editSchoolValidateLoading";
